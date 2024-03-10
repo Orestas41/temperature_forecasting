@@ -1,1 +1,5 @@
-# temperature_forecasting
+<h1 align='center'>Temperature Forecast</h1>
+<h3 align='center'>Orestas Dulinskas</h3>
+<h4 align='center'>March 2024</h4>
+
+This data science project aims to forecast the hourly dry-bulb temperature (HOURLYDRYBULBTEMPF) using the NOAA JFK dataset, which comprises 75,119 hourly observations of various climatological variables collected at John F. Kennedy International Airport in Queens, New York. The dry-bulb temperature is a fundamental indicator of air temperature and plays a crucial role in various domains such as aviation. By accurately predicting the hourly dry-bulb temperature, this project seeks to provide valuable insights for weather-sensitive operations, such as flight scheduling and energy demand management. Additionally, understanding the temporal patterns and fluctuations in temperature can contribute to climate research and resilience planning in the face of climate change. Through thorough data analysis, modeling, and validation, this project aims to develop a reliable forecasting model that can assist stakeholders in making informed decisions based on future temperature trends at JFK airport.
